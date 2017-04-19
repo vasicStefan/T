@@ -1,0 +1,42 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+.lista-filmova {
+	float: left;
+	width: 40%;
+	text-align: justify;
+	padding: 20px;
+	margin: 20px;
+	border: 8px solid white;
+}
+
+.lista-filmova h2 {
+	font-size: 50px;
+	text-align: center;
+	margin: 5px 0px 20px 0px;
+}
+
+.film-zaglavlje {
+	background-color: white;
+	color: black;
+	font-size: 30px;
+	text-align: center;
+}
+
+.film-sadrzaj img {
+	width: 100%;
+}
+
+.film-sadrzaj table {
+	width: 100%;
+}
+
+.film-sadrzaj td {
+	vertical-align: top;
+}
+
+.crveno {
+	background-color: red;
+}

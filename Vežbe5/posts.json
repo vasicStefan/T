@@ -1,0 +1,72 @@
+{
+	"wall": {
+		"posts": [
+			{ "name": "Pera Peric", 
+				"avatar":"images/avatar2.png", 
+				"time":"Pre 4 minuta",
+				"content":"Lorem ipsum dolor sit amet, pri id ridens causae explicari, ea summo reprimique consequuntur eam, officiis evertitur te ius. Eu sea laboramus temporibus, porro deterruisset et sea. Ex lucilius prodesset ius, ea usu facete habemus mandamus. Duo libris detracto copiosae et, facer aliquip appellantur ad sed. Ius no denique insolens. Ad per clita fuisset, enim accommodare ius ex. Sit hinc oratio expetenda ex, eum cu euismod efficiendi, mei quot saepe menandri an. Ferri semper repudiare sea an, facilis accusata inimicus in vix, id sea oportere similique reformidans. Pro regione detracto suavitate ut, has singulis salutatus instructior id. Mea nostro persecuti at, vidit erant disputationi no his. Bonorum alienum argumentum et sed. Vim in mucius recteque postulant, vix mucius propriae ea.",
+				"images": ["images/image1.jpg","images/image2.jpg"],
+				"likes":["Jelena Jelenic","Milana Milanic","Ja"],
+				"comments":[
+					{"name":"Ja",
+					 "avatar":"images/avatar.png",
+					 "time":"Pre 3 minute",
+					 "content":"Per aspera ad astra."					 
+					},
+					{"name":"Jelena Jelenic",
+					 "avatar":"images/avatar3.png",
+					 "time":"Pre 2 minute",
+					 "content":"Hannibal ante portas."					 
+					},
+					{"name":"Milana Milanic",
+					 "avatar":"images/avatar4.png",
+					 "time":"Pre 1 minute",
+					 "content":"Historia est magistra vitae."					 
+					},		
+					{"name":"Pera Peric",
+					 "avatar":"images/avatar2.png",
+					 "time":"Sada",
+					 "content":"In vino veritas."					 
+					}
+				]
+				
+				},
+			{ "name": "Jelena Jelenic", 
+				"avatar":"images/avatar3.png", 
+				"time":"Pre 10 minuta",
+				"content":"Pogledaj sajt PMF-a: <a href=\"https://www.pmf.uns.ac.rs/\">Link.</a>",
+				"images":[],
+				"likes": ["Pera Peric"],
+				"comments":[
+					{"name":"Pera Peric",
+					 "avatar":"images/avatar2.png",
+					 "time":"Pre 3 minute",
+					 "content":"Evo ga i link za DMI:  <a href=\"https://www.dmi.uns.ac.rs/\">Link.</a>"				 
+					}		
+				]},
+			{ "name": "Ja", 
+				"avatar":"images/avatar.png", 
+				"time":"Pre 2 sata",
+				"content":"Slika sume",
+				"images":["images/image3.jpg"],
+				"likes":["Pera Peric","Jelena Jelenic"],
+				"comments":[
+					{"name":"Pera Peric",
+					 "avatar":"images/avatar2.png",
+					 "time":"Pre 2 sata",
+					 "content":"Predivno."					 
+					},
+					{"name":"Jelena Jelenic",
+					 "avatar":"images/avatar3.png",
+					 "time":"Pre 2 sata.",
+					 "content":"Uzivaj u odmoru! :-)"					 
+					},
+					{"name":"Ja",
+					 "avatar":"images/avatar.png",
+					 "time":"Pre 1 sat",
+					 "content":"Hvala!"					 
+					}		
+				]}	
+		]
+	}
+}

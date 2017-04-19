@@ -1,0 +1,6 @@
+Napraviti dve HTML stranice: login.html i profile.html. Ove dve stranice treba da izgledaju onako kako je prikazano na slikama login.png, profile_1.png, profile_2.png, profile_3.png i profile_4.png. Pored toga implementirati sledeće stavke:
+	- U stranici login.html deo za login i deo za registraciju su dve odvojene forme.
+	- Klikom na dugme "Uloguj se" ili na dugme "Registuj se" korisniku treba da se prikaže stranica profile.html.
+	- Polje u kom se unosi šifra ne sme da prikazuje karaktere koje korisnik unosi.
+	- U stranici profile.png poslednja ikonica u delu za navigaciju (plavi deo) treba da bude klikabilna, i treba da vodi na stranicu login.html.
+	- U stranici profile.png u postu Jelene Jelenić nalazi se tekst "Link". Taj tekst treba da bude klikabilan i da vodi na URL http://www.pmf.uns.ac.rs.	

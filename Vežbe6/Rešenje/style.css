@@ -1,0 +1,37 @@
+body {
+	background-image: url(pozadina.jpg);
+}
+
+div {
+	margin: 20px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+table {
+	text-align: center;
+}
+
+td {
+	padding: 5px 10px;
+}
+
+.naslov {
+	background-color: rgba(255,255,255,0.8);
+	border: 2px solid black;
+	text-align: center;
+}
+
+.suncano {
+	background-color: rgb(160,254,254);
+}
+
+.oblacno {
+	background-color: rgb(0,175,206);
+	color: white;
+}
+
+.kisovito {
+	background-color: rgb(1,115,152);
+	color: white;
+}
